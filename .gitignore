@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.musicxml
+*.mxl
+.DS_Store
